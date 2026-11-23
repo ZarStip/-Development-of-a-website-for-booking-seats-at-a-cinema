@@ -90,8 +90,7 @@ project/
 
 1. Клонировать репозиторий:
 
-   git clone https://github.com/user/project.git
-
+   git clone https://github.com/ZarStip/-Development-of-a-website-for-booking-seats-at-a-cinema.git
 2. Перейти в папку проекта.
 3. Установить необходимые зависимости.
 4. Настроить подключение к базе данных.
