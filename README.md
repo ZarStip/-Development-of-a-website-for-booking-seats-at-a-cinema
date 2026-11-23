@@ -119,5 +119,5 @@ project/
 | Участник | Зона ответственности | GitHub |
 |----------|---------------------|--------|
 | Земсков Павел | bd | [Профиль](https://github.com/ZarStip) |
-| Титов Александр | Прототипирование, Tester | [Профиль](https://github.com/) |
-| Янко Арсений | Frontend, Backend, Координация команды | [Профиль](https://github.com/) |
+| Титов Александр | Frontend, Прототипирование, Tester | [Профиль](https://github.com/justinkaido21) |
+| Янко Арсений | Backend, Координация команды | [Профиль](https://github.com/ttyhf) |
